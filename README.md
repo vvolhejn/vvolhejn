@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌍 Personal page: https://vvolhejn.github.io/
-- 🧙 Gandalf, a game [we](https://www.lakera.ai/) made about ChatGPT prompt injection: https://gandalf.lakera.ai/
+- 🧙 Gandalf, a game [we](https://www.lakera.ai/) made about ChatGPT prompt injection, played by over 250k people: https://gandalf.lakera.ai/
 - 🕹 A big game we're working on: https://impromptu.fun/ (code is private, sorry!)
 - 🎓 Animations for our YouTube channel [Polylog](https://www.youtube.com/@polylog7346): https://github.com/polylog-cs/
 - 🕹 Small game jam games my friends and I made:
