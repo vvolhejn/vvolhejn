@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌍 Personal page: https://vvolhejn.github.io/
-- 🧙 Gandalf, a game [we](https://www.lakera.ai/) made about ChatGPT prompt injection, played by over 250k people: https://gandalf.lakera.ai/
+- 🌍 Personal page: https://vvolhejn.com/
+- 🧙 Gandalf, a game I designed and [we](https://www.lakera.ai/) made about ChatGPT prompt injection, played by over 250k people: https://gandalf.lakera.ai/
 - 📍 Maps that show time instead of space: https://spacetime-maps.vercel.app/
 - 🕹 A big game we've made: https://impromptu.fun/ (code is private, sorry!)
 - 🔉 An interactive site about turning speech into sine waves: https://www.sinewavespeech.com/
