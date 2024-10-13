@@ -7,12 +7,14 @@
 - 🔉 An interactive site about turning speech into sine waves: https://www.sinewavespeech.com/
 - 🎓 Animations for our YouTube channel [Polylog](https://www.youtube.com/@PolylogCS): https://github.com/polylog-cs/
 - 🕹 Small game jam games my friends and I made:
-  - [Paper, cork and bugs](https://github.com/allemansratten/PaperCorkAndBugs)
-  - [The Skewery](https://github.com/allemansratten/the-skewery)
-  - [Overly Fragile Relationships](https://github.com/allemansratten/overly-fragile-relationships)
-  - [Tower Tower Defense Defense](https://github.com/allemansratten/LD48)
-  - [Jose's Hose](https://github.com/vvolhejn/minijam98)
+  - [Ant Colony Tycoon Deluxe](https://github.com/allemansratten/AntColonyTycoonDeluxe)
   - [Significant Other(s)](https://github.com/allemansratten/sos)
+  - [Jose's Hose](https://github.com/vvolhejn/minijam98)
+  - ⭐ [Tower Tower Defense Defense](https://github.com/allemansratten/LD48)
+  - [Overly Fragile Relationships](https://github.com/allemansratten/overly-fragile-relationships)
+  - [The Skewery](https://github.com/allemansratten/the-skewery)
+  - [Paper, cork and bugs](https://github.com/allemansratten/PaperCorkAndBugs)
+
 - 🎻 [Code](https://github.com/vvolhejn/thesis) for my Master's thesis: Accelerating Neural Audio Synthesis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvolhejn&hide=html,jupyter%20notebook&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
