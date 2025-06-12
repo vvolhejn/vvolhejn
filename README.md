@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🌍 Personal page: https://vvolhejn.com/
-- 🧙 Gandalf, a game I designed and [we](https://www.lakera.ai/) made about ChatGPT prompt injection, played by over 250k people: https://gandalf.lakera.ai/
+- 🧙 Gandalf, a game I designed and [we made at Lakera](https://www.lakera.ai/) made about ChatGPT prompt injection, played by over 1M people: https://gandalf.lakera.ai/
 - 📍 Maps that show time instead of space: https://spacetime-maps.vercel.app/
-- 🕹 A big game we've made: https://impromptu.fun/ (code is private, sorry!)
-- 🔉 An interactive site about turning speech into sine waves: https://www.sinewavespeech.com/
 - 🎓 Animations for our YouTube channel [Polylog](https://www.youtube.com/@PolylogCS): https://github.com/polylog-cs/
+- 🔉 An interactive site about turning speech into sine waves: https://www.sinewavespeech.com/
+- 🕹 A big game we've made: https://impromptu.fun/ (code is private, sorry!)
 - 🕹 Small game jam games my friends and I made:
   - [Ant Colony Tycoon Deluxe](https://github.com/allemansratten/AntColonyTycoonDeluxe)
   - [Significant Other(s)](https://github.com/allemansratten/sos)
